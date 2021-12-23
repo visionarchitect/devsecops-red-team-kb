@@ -1,0 +1,13 @@
+# Hardcoded secrets in GIT
+- Trufflehog - https://github.com/trufflesecurity/truffleHog
+  - Git history and files
+  - Can be executed in docker
+- Rustyhog - https://github.com/newrelic/rusty-hog
+  - Git history and files
+  - Can be executed in docker
+  - Defferent flavours for different scans
+  - S3 Bucket scanner
+- GitLeaks - https://github.com/zricethezav/gitleaks
+  - Git history and files
+  - Can be executed in docker
+  - Rich regex config capabilities
