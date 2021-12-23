@@ -9,12 +9,15 @@ Free tools that will allow you to check access, see data, modify data
 # Databases
 [MySQL]
 - MySQL Workbench
+
 [SQL Server]
 - Sql Server Management Studio Express
 - Visual studio
+
 [Azure Storage Accounts, Blob Storage, Queues etc.]
 - Storage Account Explorer - https://azure.microsoft.com/en-en/features/storage-explorer/
 - Visual studio
+
 [Bots - Microsoft]
 - Bot Framework Emulator
 - Bot Framework Composer
