@@ -11,3 +11,7 @@
   - Git history and files
   - Can be executed in docker
   - Rich regex config capabilities
+- PHP
+  - SAST - https://github.com/nbs-system/php-malware-finder/
+  - SAST - http://rips-scanner.sourceforge.net/
+  - SAST - https://sonarcloud.io/
