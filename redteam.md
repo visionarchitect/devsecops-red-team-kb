@@ -1,0 +1,32 @@
+- Nmap
+- sqlmap
+- Nikto
+- OpenVAS / NESSUS
+- Spiderfoot
+- Intrigue
+- Maltego
+- OSINT Framework
+- Shodan
+- Wireshark
+- SecurityTrails API
+- Social Engineering Toolkit (SET)
+- Metasploit
+- Invoke-Obfuscation
+- Veil
+- Gophish
+- Hashcat
+- BeEF
+- King Phisher
+- PowerUp
+- BeRoot
+- BloodHound
+- Mimikatz
+- PAExec
+- CrackMapExec
+- Empire Project
+- Pupy
+- Cobalt Strike
+- DET
+- Powershell-RAT
+- Haktrails
+- SecurityTrails SQL
