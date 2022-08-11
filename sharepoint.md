@@ -1,0 +1,1 @@
+- https://github.com/pnp/PnP-Tools/tree/master/Solutions/SharePoint.Search.QueryTool
