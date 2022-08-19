@@ -1,0 +1,2 @@
+- https://ethicalhackersacademy.com/blogs/ethical-hackers-academy/active-directory
+- 
