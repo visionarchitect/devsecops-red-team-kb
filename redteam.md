@@ -30,3 +30,4 @@
 - Powershell-RAT
 - Haktrails
 - SecurityTrails SQL
+- https://github.com/fin3ss3g0d/evilgophish
